@@ -2,7 +2,7 @@ Deployed_Link: https://hemkesh-lab-1.onrender.com/
 
 # Lab 1: Node.js and Express Server
 
-**Deployed Link:** [https://hemkesh-lab-1.onrender.com/](https://hemkesh-lab-1.onrender.com/)
+**Deployed Link:** https://hemkesh-lab-1.onrender.com/
 
 ---
 
