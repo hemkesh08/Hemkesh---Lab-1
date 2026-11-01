@@ -69,21 +69,23 @@ GET	/about	Returns student name and section in JSON format	200 OK
 GET	/time	Returns the current server date and time	200 OK
 GET	/unknown	Displays a 404 error for an unknown route	404 Not Found
 Screenshots
-1. Home Route
+## Screenshots
+
+### 1. Home Route
 Displays the welcome message.
-<img width="1365" height="719" alt="home" src="https://github.com/user-attachments/assets/75677d47-260c-4487-a8c0-3acdb74d83a3" />
+<img width="1365" height="719" alt="home" src="https://github.com/user-attachments/assets/75677d47-260c-4487-a8c0-356345cb31aa" />
 
-2. About Route
+### 2. About Route
 Displays student information in JSON format.
-<img width="1359" height="717" alt="about" src="https://github.com/user-attachments/assets/3d61fe8a-dc5c-4c62-ac6d-4d7ed64cd50f" />
+<img width="1359" height="717" alt="about" src="https://github.com/user-attachments/assets/3d61fe8a-dc5c-4c62-ac6d-49ea47b9662b" />
 
-3. Time Route
+### 3. Time Route
 Displays the current date and time.
-<img width="1358" height="718" alt="time" src="https://github.com/user-attachments/assets/a028cb10-54a3-4081-a9a2-2ec9279e019c" />
+<img width="1358" height="718" alt="time" src="https://github.com/user-attachments/assets/a028cb10-54a3-4081-a9a2-21ea319a9cfb" />
 
-4. 404 Not Found
+### 4. 404 Not Found
 Displays an error message for an invalid route.
-<img width="1359" height="713" alt="Unknown" src="https://github.com/user-attachments/assets/0bbcd58a-fef3-4eea-b8f1-95faa38e7a39" />
+<img width="1359" height="713" alt="Unknown" src="https://github.com/user-attachments/assets/0bbcd58a-fef3-4eea-b8f3-bc44a56ea6d9" />
 
 Viva Questions and Answers
 1. What is the difference between package.json and node_modules?
