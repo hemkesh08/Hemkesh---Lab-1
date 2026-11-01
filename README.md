@@ -1,23 +1,37 @@
 Deployed_Link: https://hemkesh-lab-1.onrender.com/
 
-Lab 1: Node.js and Express Server
-Student Details
-Name: Vijay Ganesh Bonthala
-Course: B.Tech – Computer Science and Engineering
-Year: II Year
-Section: 106 CSE-AIDE(2A)
-Subject: Backend Development Fundamentals
-Lab Number: 01
-Project Overview
+# Lab 1: Node.js and Express Server
+
+**Deployed Link:** [https://hemkesh-lab-1.onrender.com/](https://hemkesh-lab-1.onrender.com/)
+
+---
+
+## Student Details
+* **Name:** Dadi Hemkesh
+* **Course:** B.Tech – Computer Science and Engineering
+* **Year:** II Year
+* **Section:** 106 CSE-AIDE(2A)
+* **Subject:** Backend Development Fundamentals
+* **Lab Number:** 01
+
+---
+
+## Project Overview
 This project demonstrates the fundamentals of Node.js and Express.js by creating a basic web server. First, a server is developed using Node.js's built-in HTTP module. Then, the server is implemented using Express.js with multiple routes to handle HTTP requests and responses.
 
-Technologies Used
-Node.js
-Express.js
-JavaScript
-npm (Node Package Manager)
-Visual Studio Code
-Project Structure
+---
+
+## Technologies Used
+* Node.js
+* Express.js
+* JavaScript
+* npm (Node Package Manager)
+* Visual Studio Code
+
+---
+
+## Project Structure
+```text
 lab-01/
 │
 ├── app.js
@@ -33,10 +47,9 @@ lab-01/
     └── not-found.png
 Installation and Setup
 1. Clone the Repository
-https://github.com/hemkesh08/Hemkesh---Lab-1.git
-
+git clone [https://github.com/hemkesh08/Hemkesh---Lab-1.git](https://github.com/hemkesh08/Hemkesh---Lab-1.git)
 2. Navigate to the Project Folder
-cd Vijayganesh_Lab_1
+cd Hemkesh---Lab-1
 3. Install Dependencies
 npm install
 4. Start the Express Server
