@@ -74,7 +74,8 @@ Screenshots
 
 ### 1. Home Route
 Displays the welcome message.
-<img width="1359" height="717" alt="about" src="https://github.com/user-attachments/assets/20f21e29-a947-4ef7-adaa-7372172b0f12" />
+<img width="1365" height="719" alt="home" src="https://github.com/user-attachments/assets/484c20d0-206a-49eb-aa50-9d1475e5c1c9" />
+
 
 ### 2. About Route
 Displays student information in JSON format.
