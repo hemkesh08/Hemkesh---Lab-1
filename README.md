@@ -55,6 +55,7 @@ npm install
 4. Start the Express Server
 npm start
 The server runs at:
+<img width="1365" height="683" alt="image" src="https://github.com/user-attachments/assets/ac6e30ac-ee34-45cc-b0e4-0a2a11f94b17" />
 
 http://localhost:3000
 
